@@ -1,5 +1,7 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Gia Huy. I am interested in the following Computer Vision.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **huydinh-uit/huydinh-uit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
