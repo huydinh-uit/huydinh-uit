@@ -6,21 +6,21 @@ My name is Gia Huy. I am interested in the following Web Development.
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uit&repo=Library-website&theme=radical" />
 </a>
 
-<a href="https://github.com/huydinh-uit/Login-registration-email-verify-Javaa">
+<a href="https://github.com/huydinh-uit/Login-registration-email-verify-Java">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uita&repo=Login-registration-email-verify-Javaa&theme=merko" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uit&repo=Login-registration-email-verify-Java&theme=merko" />
 </a>
 
 </br>
 
-<a href="https://github.com/huydinh-uit/Springboot-Testinga">
+<a href="https://github.com/huydinh-uit/Springboot-Testing">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uita&repo=Springboot-Testinga&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uit&repo=Springboot-Testing&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/huydinh-uit/IE221--Pythona">
+<a href="https://github.com/huydinh-uit/IE221--Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uita&repo=IE221--Pythona&theme=dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huydinh-uit&repo=IE221--Python&theme=dark" />
 </a>
 
 <!-- <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/"> -->
